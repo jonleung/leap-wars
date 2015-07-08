@@ -6,4 +6,10 @@ html {
   background-size: cover;
 }
 
+.hidden {
+  display: none;
+}
 
+#grabStrengthSlider {
+  width: 20%;
+}

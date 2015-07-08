@@ -1,1 +1,7 @@
+- Slowly Fade Out The Death Star and Fade In Vader As You Choke
+  - http://www.geeknaut.com/images/2011/10/9DARTH-vADER.jpg?b4716f
+- Make Node Work
 - Refactor
+- When you make a fist, it turns into a lightsaber, and there's 3D geometry for making the servo's move as your hands!!!!!
+- If there's two hands, there's force lightning!!!!
+- Leap Simulator?

@@ -1,18 +1,11 @@
-var output = document.getElementById('output');
-var frameString = "", handString = "", fingerString = "";
-var hand, finger;
-
-// Leap.loop uses browser's requestAnimationFrame
-var options = { enableGestures: true };
-
 var imperialMarch = new Audio('http://cprouvost.free.fr/fun/generiques/--%20Film%20--/Film%20-%20Star%20Wars%20(The%20Imperial%20March).mp3');
 var breathing = new Audio('http://f.cl.ly/items/2R45021y3b3X0v2S1C1s/Darth-vader-breathing.mp3');
 var musicPlaying = false;
 var breathingPlaying = false;
 
 // Main Leap Loop
-Leap.loop(options, function(frame) {
-  hand = frame.hands[0];
+var options = { enableGestures: true };
+Leap.loop(options, function(frame) {  hand = frame.hands[0];
   if (hand === undefined) {
 
     musicPlaying = false;
