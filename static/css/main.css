@@ -6,6 +6,12 @@ html {
   background-size: cover;
 }
 
+.darth {
+  position: fixed;
+  right: 0;
+  opacity: 0;
+}
+
 .hidden {
   display: none;
 }
@@ -13,3 +19,4 @@ html {
 #grabStrengthSlider {
   width: 20%;
 }
+
