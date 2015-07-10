@@ -5,3 +5,9 @@
 - When you make a fist, it turns into a lightsaber, and there's 3D geometry for making the servo's move as your hands!!!!!
 - If there's two hands, there's force lightning!!!!
 - Leap Simulator?
+
+
+
+- sounds
+  - http://theforce.net/fanfilms/postproduction/soundfx/saberfx_fergo.asp
+  - http://theforce.net/fanfilms/postproduction/soundfx/saberfx_fergo.asp
